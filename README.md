@@ -9,3 +9,7 @@ Tips:
 Reference:
 - File [Salary](https://www.kaggle.com/vivinbarath/simple-linear-regression-for-salary-data/data)
 - Source [Medium](https://medium.com/geekculture/simple-linear-regression-analysis-using-python-c5b2f637942)
+
+Cara pakai:
+- Untuk pengguna IDE Visual Studio Code/Jupyter Notebook, Fork repositori ini, jangan lupa tambahkan library!
+- Atau Anda dapat menggunakannya di [Google Collab](https://colab.research.google.com/github/Gianhapri/LinearRegression-GridSearch/blob/main/LinearRegression_GridSearch.ipynb)
